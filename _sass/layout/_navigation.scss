@@ -224,7 +224,16 @@
         }
       }
     }
-
+    
+    #theme-toggle {
+      a {
+        width: 25px;
+        display: flex;
+        justify-content: center;
+        cursor: pointer;
+      }
+    }
+    
     a {
       position: relative;
 
