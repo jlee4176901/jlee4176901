@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "dark"
-title                    : "Jongseok Lee / Hompage"
+title                    : "Jongseok Lee | Hompage"
 title_separator          : "-"
 name                     : &name "Jongseok Lee"
 description              : &description "personal description"
