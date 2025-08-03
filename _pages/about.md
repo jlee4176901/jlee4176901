@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a research scientist at the Institute of Robotics and Mechatronics, the German Aerospace Center (DLR). 
+I am currently a research scientist at the Robotics Institute of the German Aerospace Center (DLR). Since 2020, I am also an external PhD candidate at the Karlsruhe Institute of Technology (KIT). My advisors are Prof. Rudolph Triebel (DLR & KIT) and Prof. Tamim Asfour (KIT).
