@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Hello there.
+I am a research scientist at the Institute of Robotics and Mechatronics, the German Aerospace Center (DLR). 
