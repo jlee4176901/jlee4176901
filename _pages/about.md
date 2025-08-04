@@ -11,4 +11,4 @@ I am a research scientist at the [Institute of Robotics and Mechatronics](https:
 
 My research aims to create robots with introspective capabilities, i.e., an intrinsic understanding of their own limitations, failures and shortcomings. Once equipped with an awareness about their own failures and limitations, robots will be able to avoid catastrophic effects by modifying their own behavior towards safety. This will lead to more explainable Artificial Intelligence and more reliable robotic systems for wider industrial deployments.
 
-[![Little red ridning hood](https://i.sstatic.net/XCRlR.png)](https://vimeo.com/1107157684?ts=0&share=copy)
+
